@@ -1,0 +1,74 @@
+[
+  {
+    "year": "1609",
+    "title": "Galileo's Telescope",
+    "description": "Galileo Galilei improves the telescope and observes the Moon, Jupiter's moons, and phases of Venus, shifting the paradigm of celestial understanding.",
+    "image": "/images/timeline/galileo.avif"
+  },
+  {
+    "year": "1865",
+    "title": "From the Earth to the Moon",
+    "description": "Jules Verne publishes the science fiction novel 'From the Earth to the Moon', inspiring generations of scientists and space dreamers.",
+    "image": "/images/timeline/verne.jpg"
+  },
+  {
+    "year": "1926",
+    "title": "First Liquid-Fueled Rocket",
+    "description": "Robert Goddard successfully launches the world's first liquid-fueled rocket, paving the way for modern rocketry.",
+    "image": "/images/timeline/goddard.webp"
+  },
+  {
+    "year": "1957",
+    "title": "Sputnik 1 Launch",
+    "description": "The Soviet Union launches the first artificial satellite, Sputnik 1, initiating the space age and triggering the space race.",
+    "image": "/images/timeline/sputnik.jpg"
+  },
+  {
+    "year": "1961",
+    "title": "First Human in Space",
+    "description": "Yuri Gagarin becomes the first human to travel into space aboard Vostok 1, completing one orbit of Earth in 108 minutes.",
+    "image": "/images/timeline/gagarin.jpg"
+  },
+  {
+    "year": "1969",
+    "title": "Moon Landing",
+    "description": "Apollo 11 lands the first humans on the Moon. Neil Armstrong and Buzz Aldrin walk the lunar surface while Michael Collins orbits above.",
+    "image": "/images/timeline/moon-landing.avif"
+  },
+  {
+    "year": "1971",
+    "title": "First Space Station",
+    "description": "The Soviet Union launches Salyut 1, the first space station, ushering in the era of long-term human habitation in orbit.",
+    "image": "/images/timeline/salyut1.webp"
+  },
+  {
+    "year": "1981",
+    "title": "First Space Shuttle Flight",
+    "description": "NASA's Columbia becomes the first reusable spacecraft to launch into orbit, revolutionizing access to space.",
+    "image": "/images/timeline/columbia.jpg"
+  },
+  {
+    "year": "1990",
+    "title": "Hubble Space Telescope",
+    "description": "Hubble is launched and begins sending detailed images of deep space, transforming astronomy with never-before-seen clarity.",
+    "image": "/images/timeline/hubble.webp"
+  },
+  {
+    "year": "1998",
+    "title": "International Space Station",
+    "description": "Construction of the ISS begins, marking an unprecedented international collaboration in space science and engineering.",
+    "image": "/images/timeline/iss.jpg"
+  },
+  {
+    "year": "2012",
+    "title": "Curiosity Rover on Mars",
+    "description": "NASA's Curiosity rover lands on Mars to explore the planet's geology and climate, searching for signs of past life.",
+    "image": "/images/timeline/curiosity.webp"
+  },
+  {
+    "year": "2021",
+    "title": "James Webb Telescope Launch",
+    "description": "The JWST is launched, offering a powerful new eye on the cosmos with infrared capabilities that reach far back into the early universe.",
+    "image": "/images/timeline/webb.webp"
+  }
+]
